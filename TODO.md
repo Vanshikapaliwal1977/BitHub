@@ -1,0 +1,6 @@
+- [x] Update HomePage in App.tsx: Change "Explore Community" button to "Explore Opportunities" linking to /opportunities
+- [x] Remove "Explore Opportunities" link from footer in App.tsx
+- [x] Modify OpportunitiesPage.tsx: Remove dummy opportunities array, add state for opportunities, add form to post new opportunities, display posted opportunities
+- [x] Update LoginPage.tsx: Change to dark theme (bg-zinc-900, text-white, etc.), remove social login buttons
+- [x] Rename project to BitHub throughout codebase
+- [ ] Test the changes
